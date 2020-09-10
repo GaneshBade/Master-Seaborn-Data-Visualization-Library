@@ -18,5 +18,12 @@ Installation
 The latest stable release (and older versions) can be installed from PyPI:
 
     pip install seaborn
+ 
 
-![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+Outline
+------------
+Click to open Jupyter Notebook in https://nbviewer.jupyter.org/
+
+:point_right: ![ Visualizing statistical relationships - relplot(kind="scatter").ipynb](https://nbviewer.jupyter.org/github/GaneshBade/Master-Seaborn-Data-Visualization-Library/blob/master/Visualizing%20statistical%20relationships%20-%20relplot%28kind%3D%22scatter%22%29.ipynb)
+
+:point_right: ![ Visualizing statistical relationships - relplot(kind="line").ipynb](https://nbviewer.jupyter.org/github/GaneshBade/Master-Seaborn-Data-Visualization-Library/blob/master/Visualizing%20statistical%20relationships%20-%20relplot%28kind%3D%22line%22%29.ipynb)
