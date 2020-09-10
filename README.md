@@ -19,4 +19,4 @@ The latest stable release (and older versions) can be installed from PyPI:
 
     pip install seaborn
 
-_____________
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)https://colab.research.google.com/notebooks/intro.ipynb#recent=true
